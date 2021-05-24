@@ -22,6 +22,6 @@ $headers="Raspuns: $visitor_email \r\n";
 
 mail($to,$email_subject,$email_body,$headers);
 
-header("Locatie: proiectretele.html");
+header("Locatie: index.html");
 
 ?>
