@@ -33,7 +33,7 @@ nav img{
 .nav-links ul li a{
     color: #fff;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 23px;
 }
 .nav-links ul li::after{
     content: '';
