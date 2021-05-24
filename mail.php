@@ -1,8 +1,8 @@
 <?php
-$name = $_POST['nume'];
-$visitor_email = $_POST['e-mail'];
-$subject = $_POST['subiect'];
-$message = $_POST['mesaj'];
+$name = $_POST['Nume'];
+$visitor_email = $_POST['Email'];
+$subject = $_POST['Subiect'];
+$message = $_POST['Mesaj'];
 
 $email_from='info@https://illu233.github.io/index/contact.html';
 
